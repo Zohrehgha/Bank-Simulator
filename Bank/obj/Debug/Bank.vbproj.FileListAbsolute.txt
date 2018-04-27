@@ -1,0 +1,28 @@
+C:\Users\Azar\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Azar\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Azar\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Azar\source\repos\Bank\Bank\bin\Debug\Bank.xml
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Interop.ADODB.dll
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.vbproj.ResolveComReference.cache
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.Transcript.resources
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.vbproj.CoreCompileInputs.cache
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Azar\source\repos\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\bin\Debug\Bank.exe.config
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\bin\Debug\Bank.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\bin\Debug\Bank.pdb
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\bin\Debug\Bank.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.vbproj.ResolveComReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.Transcript.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.vbproj.CoreCompileInputs.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 2\Bank\Bank\obj\Debug\Bank.pdb
